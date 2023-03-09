@@ -1,0 +1,35 @@
+_repo: Handbook-of-Old-Burial-Hill-Plymouth-Massachusetts-b-its-history-its-famous-dead-and-its-quai__70098
+_version: 0.0.1
+alternative_title: The old burying-ground
+creator:
+  author:
+    agent_name: Perkins, Frank H.
+    alias: Perkins, Frank Herman
+    birthdate: 1854
+    gutenberg_agent_id: '55598'
+    url: http://www.gutenberg.org/2009/agents/55598
+description: ''
+gutenberg_issued: '2023-02-21'
+identifiers:
+  gutenberg: '70098'
+  lccn: 02018019
+language: en
+pgterms:marc905: 20220617120909perkins
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: Bob Taylor, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bA. S. Burbank, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epitaphs -- Massachusetts -- Plymouth'
+- !lcsh 'Cemeteries -- Massachusetts -- Plymouth'
+- !lcsh 'Burial Hill (Plymouth, Mass.)'
+- !lcsh 'Plymouth (Mass.) -- Genealogy'
+- !lcc 'F001'
+- GITenberg
+title: "Handbook of Old Burial Hill, Plymouth, Massachusetts\r\n$b its history, its\
+  \ famous dead, and its quaint epitaphs"
+url: http://www.gutenberg.org/ebooks/70098
